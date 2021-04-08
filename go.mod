@@ -1,4 +1,4 @@
-module github.com/godyy/ratelimit
+module github.com/GodYY/ratelimit
 
 go 1.15
 
